@@ -1,0 +1,46 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D3:9A:53:16:2B:13:0B:2C:AE:D3:96:7D:1C:7A:8C:C7:3C:17:E5:01%3Bcom.swayaan.detectmylocation
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    D3:9A:53:16:2B:13:0B:2C:AE:D3:96:7D:1C:7A:8C:C7:3C:17:E5:01
+
+    SHA-1 certificate fingerprint:
+    D3:9A:53:16:2B:13:0B:2C:AE:D3:96:7D:1C:7A:8C:C7:3C:17:E5:01
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="AIzaSyArLrSwghMHUTRP5wIILrgbsgdz31LTRXM" templateMergeStrategy="preserve" translatable="false">GoogleMapsKEy</string>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=D3:9A:53:16:2B:13:0B:2C:AE:D3:96:7D:1C:7A:8C:C7:3C:17:E5:01%3Bcom.swayaan.detectmylocation
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    D3:9A:53:16:2B:13:0B:2C:AE:D3:96:7D:1C:7A:8C:C7:3C:17:E5:01
+
+    SHA-1 certificate fingerprint:
+    D3:9A:53:16:2B:13:0B:2C:AE:D3:96:7D:1C:7A:8C:C7:3C:17:E5:01
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false">AIzaSyArLrSwghMHUTRP5wIILrgbsgdz31LTRXM</string>
+</resources>
